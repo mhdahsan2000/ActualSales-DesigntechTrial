@@ -11,3 +11,5 @@ Open index.html to open the webpage !
 - The Images used in this webpage are present in the image folder. 
 
 - Also refer to the style guide to see the templates used in this webpage. 
+
+Techtrial passed ! 
